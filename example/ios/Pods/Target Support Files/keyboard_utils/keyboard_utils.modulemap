@@ -1,0 +1,6 @@
+framework module keyboard_utils {
+  umbrella header "keyboard_utils-umbrella.h"
+
+  export *
+  module * { export * }
+}

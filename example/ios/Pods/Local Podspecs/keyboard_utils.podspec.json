@@ -1,0 +1,26 @@
+{
+  "name": "keyboard_utils",
+  "version": "0.0.1",
+  "summary": "A new Flutter plugin for check visibility keyboard",
+  "description": "A new Flutter plugin for check visibility keyboard",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}
