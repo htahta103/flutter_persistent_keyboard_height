@@ -1,0 +1,11 @@
+framework module keyboard_utils {
+  umbrella header "keyboard_utils-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module keyboard_utils.Swift {
+    header "keyboard_utils-Swift.h"
+    requires objc
+}
